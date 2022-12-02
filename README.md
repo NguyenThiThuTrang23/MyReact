@@ -10,5 +10,7 @@ Bài tập môn React
 7. [Câu 15](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/MWXmmaX)
 8. [Câu 16](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/zYaPypv)
 9. [Câu 17](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/PoaOXdB)
+10. [Câu 1](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/ExRZqEr)
+11. [Câu 3](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/YzvZBNW)
 ## Thực hành
-1. [Bài thực hành pros và state]
+1. [Bài thực hành làm quen React và tạo component]
