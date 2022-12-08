@@ -14,7 +14,7 @@ Bài tập môn React
 11. [Câu 3](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/YzvZBNW)
 12. [Câu 5](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/ExRbGoP)
 13. [Câu 8](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/poKGqJa)
-14. [Câu 15](cách 2)(https://codepen.io/nguyn-th-thu-trang-the-animator/pen/yLEZvGe)
+14. [Câu 15 cách 2](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/yLEZvGe)
 15. [Câu 18](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/XWYMQJz)
 16. [Câu 19](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/rNKybaG)
 17. [Câu 20](https://codepen.io/nguyn-th-thu-trang-the-animator/pen/bGKqZVO)
